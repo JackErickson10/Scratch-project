@@ -1,4 +1,4 @@
 # Scratch-project 
 A very simple maze game. Nothing complicated.
 
-Try inserting a link here _____!
+Link: [GitHub](https://github.com/JackErickson10/Scratch-project.git)
