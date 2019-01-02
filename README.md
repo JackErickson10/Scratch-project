@@ -1,1 +1,2 @@
-# Scratch-project A very simple maze game. Nothing complicated
+# Scratch-project 
+A very simple maze game. Nothing complicated.
